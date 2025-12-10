@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/proposal-generator-for-product-requirements-28-43/proposal_frontend"
+}
